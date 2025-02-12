@@ -1,16 +1,13 @@
-## Hi there 👋
+## Olá! Eu sou Sandro de Lima👋
 
-<!--
-**Sandro-lima/Sandro-lima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-  Hoje trabalho com front-end
+-  Estudando JavaScript
+-  Pronouns: Ele/Dele
+
+##
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sandro-lima&count_private=true&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandro-lima&layout=compact&theme=dark)
+
